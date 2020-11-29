@@ -1,109 +1,53 @@
 name,ring,quadrant,isNew,description
-«Smart Watches"," Social Media"," available Patient Data for Market Surveillance»,Initial,Technologie,FALSE,"«Smart Watches"," Social Media"," available Patient Data for Market Surveillance»
-(Data: linking public information (socia media) with Internet-of-things based information)"
-Data-Lake for safety surveillance and communication,Initial,Technologie,FALSE,"Confidential safety surveillance
-I. “Confidential safety surveillance for public: Inform public of safety signals which become available by Swissmedic applying AI to all data available.”
-(Data: all Data (a) received from all companies"," unshared/confidential (b) Internet (c) literature, analyze this data lake)
-II. “Confidential safety surveillance for companies only: Among all data received by Swissmedic during product development"," identify safety signals for a given product class and inform the companies developing such products of these safety signals”.
-(Data: all Data received (e.g. IB"," Final study reports"," protocols from)"," create a data –lake across companies)"
-RWD for confirming previousliy given marketing Authorization.,Initial,Technologie,FALSE,"“Looking at RWD if they (not) confirm our previousliy given marketing Authorization.2
-(Data: electronic health dossier)"
-“PRE-Evaluation of Marketing Authorization Applications (MAA) only on AI-selected chapters”,Initial,Technologie,FALSE,"“PRE-Evaluation of Marketing Authorization Applications (MAA) only on AI-selected chapters”
-(Data: Historic internal data+ data from other authorities"," evaluation feedback from Reviewers"," eCTP)"
-“POST-Evaluation of MAA which did “fail” at previous applications”,Initial,Technologie,FALSE,"“POST-Evaluation of MAA which did “fail” at previous applications”
-(Data: Historic internal data + data from other authorities, Evaluation"," dossier"," Q&A)."
-Pooling Safety signals from multiple sources for reading out risks to patients and for inspection,Initial,Technologie,FALSE,“Multiple Data from Literature"," Patients"," Doctors"," Study resultsm Safety signals are pooled to read out risk for patients and are used for inspections (to address risk).”
-Real-time study sucess algorithm,Initial,Technologie,FALSE,"“Use online study information to run a Swissmedic algorithm which provides a probability of STUDY success to Swissmedic. Also usable for Marketing authorization process”
-(Data: real-time data)"
-AI for Personalized Drug Development Approval,Initial,Technologie,FALSE,"“Use AI to approve the process of drug development (=Personalized drug development) which needs to be evaluated by the agency”
-(Data: Published data"," available data from the sponsor)"
-"“Knowing the Gene-Profile of patients will lead to enlarge the Marketing Authorization beyond the initial trial data.""",Initial,Organisation & Prozesse,FALSE,"“Knowing the Gene-Profile of patients will lead to enlarge the Marketing Authorization beyond the initial trial data.
-(Data: Vigilance monitoring"," publication of genetic data"," genetic data are provided with the dossier.)"
-AI-based compliance checking of company self-approved data,Initial,Technologie,FALSE,"“Decentralize Agencies Tasks: Companies will be responsible to evaluate and “approve” the data. Swissmedic will verify with AI/KI if companies are compliant.”
-(Data: Sponsor feed data on an ongoing basis)"
-"Reputation of Swissmedic in Social Media, Goal: improve reputation",Initial,Organisation & Prozesse,FALSE,"Reputation of Swissmedic in Social Media, Goal: improve reputation"
-Signal detection on Swissmedic data,Initial,Technologie,FALSE,"Signal detection on Swissmedic data (Pharmacovigilance (PV) HUMAN/VET PV/Blood PV/ Bio PV/ Devit PV), Goal: better and faster detection of signals"
-"Usage of published data on our websites and user behaviour, Goal: Optimise our website structure and quality of data/content",Trial,Technologie,FALSE,"Usage of published data on our websites and user behaviour, Goal: Optimise our website structure and quality of data/content"
-scheduling of new designer precursors,Initial,Technologie,FALSE,"scheduling of new designer precursors: Concept: 
-AI to be used to anticipate new designer precursors in order to schedule them earlier 
-Background: 
-New designer precursors appear in the market to avoid narcotics control. Purpose is to use them for manufacture if methamphetamine"," MDMA or fentanyls. The new precursors often are intermediates.
-Scheduling system is Switzerland allows to schedule these kind precursors.
-Database:
-• Final narcotic drug which should be manufactured (methamphetamine"," MDMA or fentanyls)
-• Already observed precursors
-• Ways to synthesize the narcotic drugs
-• Internet
-• Darknet (traded chemicals)
-Benefit:
-Early scheduling of designer precursors"," Switzerland is unattractive as transit or trading country for illegal business with these chemicals"
-scheduling of new psychoactive substances (NPS),Initial,Technologie,FALSE,"scheduling of new psychoactive substances (NPS):
-Concept: 
-AI to be used to anticipate NPS in order to schedule them before they appear at the swiss market
-Background: 
-NPS are substitutes for narcotics or psychotropic drugs"," which are under narcotics control. Often they are analogs of the scheduled substances to avoid narcotics control"," seizure and punishment. Substances are traded by internet direct to consumer.
-Scheduling system is Switzerland allows to schedule substances with supposed narcotics or psychotropic action. Substances identified by AI and having no medical use can be scheduled
-Database:
-• Already scheduled substances
-• Internet such as eve and rave"," in which experience with the narcotic or psychotropic effect is exchanged
-• Early warning databases from UNODC or EMCDDA (EU) in case we receive access to the system
-• Patent data
-• Darknet ?
-Benefit:
-Early scheduling of NPS"," before they appear"," and not some steps behind illegal players. Switzerland is unattractive as transit or trading country for illegal business with these NPS."
-Identify risky shipments,Initial,Technologie,FALSE,Identify risky shipments --> Low priority at the moment"," could by solved manually (at the moment)
-API manufacturers abroad with unreported issues,Initial,Technologie,FALSE,API manufacturers abroad with unreported issues: Screen public available data and agency data if API manufacturers have quality problems --> if yes: to inspect them (Worldwide)
-Answer questions from the public with help of AI,Assess,Technologie,FALSE,Answer questions from the public with help of AI"," Data Source: questions asked from the public and answers given by Swissmedic.As a first measure Q&A and FAQ documents have been established. Amount of data: Only medical devices about 2'000 questions per year (on top of all other questions). Major outcome: Today a lot of time is spent to answer many question which have been already asked in a similar way and therefore already answered. These answers could be used as input for answering new questions. Minor outcome: already used by another agency Possible keywords: Depending on the question
-Speed-up marketing authorisation processes,Initial,Technologie,FALSE,"Slow marketing authorisation processes
-Context: The speed of marketing authorisation processes has been a long-running issue. The Swissmedic timelines"," the company timelines as well as the total times have been measured in yearly benchmarking studies and compared to international regulatory authorities. There are many reasons why the some applications are processes fast and some are delayed. Our need: It would be interesting if there are correlated to applications running long and certain parameters (or combinations of parameters) we have overlooked so far. Possibly interesting parameters could be: ATC code"," field of application"," orphan drug status"," company name"," company size"," company origin"," time point of submission (spring"," summer…)"," dossier quality (formal errors had to be corrected)"," number of minor/major concerns at LoQ"," nature of molecule (biologics vs synthetic) any many more (most of the mentioned in our internal database). The goal would be to recognize early if an application is in risk of running long… --> the possibility to more closely monitor these applications and take counter measures.
--The same set of source data could be used to identify if there are indicators for the applications of Art. 13 TPA (HMG) pathways for Neuanmeldung New active substance (NA NAS) applications with Orphan drug status (ODS) (primary focus on these applications). The question behind: Why to some companies submit to Swissmedic and the EMA/FDA in parallel while others wait for the EMA/FDA decision in order to submit at Swissmedic according to Art. 13 TPA (delayed patient access to innovative medicines). Is there correlation in our data?
-The same set of source data could be used to identify if there are indicators in our data for the length of the submission gap."
-GCP Inspections,Initial,Technologie,FALSE,"Topic: GCP Inspections (maybe also applicable to clinical/preclinical review in the framework of marketing authorisation applications)
-Aim: Use AI to identify potential data integrity issues in large datasets (= data listings requested in the framework of GCP inspections"," provided in the framework of marketing authorisation applications). Based on the AI output"," the GCP Inspector/preclinical/clinical reviewer could focus its review on relevant data sets.
-Data: structured"
-GCP/GVP Inspections (department KLV and MEP),Initial,Technologie,FALSE,"Topic: GCP/GVP Inspections (department KLV and MEP)
-Aim: Use AI to identify inspections targets (trial sites/organisations/companies) based on predefined risk factors 
-Data: internal data listings"," external sources (e.g.: social media) - structured and unstructured"
-Priorization of incident reports and identification of signals and trends,Initial,Technologie,FALSE,Data Source: All incoming incident reports and FSCA (field safety corrective action). Several different forms with structured and unstructured data. Amount of data: 3000 reports per year and increasing by 10%-20% every year.Major outcome: Identify signals and trends. Signals require immediate attention and trends should be monitored over a longer time. Everything else can potentially accumulated until a trend can be detected. Minor outcome:Priorization of all reports for further processing or even closure of the report. Today all incoming reports are manually assigned one of 4 or 5 different states which influence further processing. This could be automated. Today this is done by the expertise and the gut feeling of each scientific officer to assign this status. Possible keywords: Death (to start with something easy) and later on different key words depending on the type of product (for example according to the GMDN code).
-Identify trends and signals based on Europen vigilance sites,Initial,Technologie,FALSE,Data Source: Public vigilance websites of all European Medical Device Agencies (public accessible). Later this could be extended to the rest of the world"," but this will be difficult as the definitions vary greatly Amount of data: No idea"," but maybe 3 to 5 million reports per year and increasing every year. Major outcome: Identify signals and trends in the rest of Europe before they come to Switzerland. For example an increasing amount of incidents regarding surgical meshes in Europe. Minor outcome: Identify problem if products are already on the Swiss market"," but the actors have not informed Swissmedic. For this outcome the data form the other agencies would need to be compared with all kind of data sources in Swissmedic"," not only vigilance data. Possible keywords: Hot topics (they will change over time"," some time ago it was PIP or ASR and so on).
-Identify if a medical device has to early been released to the market.,Initial,Technologie,FALSE,Data Source: Database of clinical trial with medical devices (i.e. from Swissmedic and from the cantonal ethic commissions) and database of incident reports and all FSCA reports (Swissmedic). Amount of data: About 4000 reports per year and increasing by 10%-20% every year Major outcome: Identify if a medical device has to early been released to the market. There are action that could follow"," e.g. inspection of the company"," desk inspection of clinical data etc. Minor outcome: Improve the work during vigilance with the enhanced data (i.e. additional information) from clinical trials (pre and post market). Possible keywords: Not yet identified.
-Analytical method for laboratory,Initial,Technologie,FALSE,Analytical method for laboratory. To look for existing laboratory methods which are suitable to analyse specific substances (e.g. assay/content"," impurity): data source: internal documentation and results"," freely available literature"," literature with paid access"," confidential data source with owner agreement of data owner e.g. other agency"," unknown sources in web
-Study-data of patients"," data analysis sub group,Initial,Technologie,FALSE,"Study-data of patients"," data analysis sub group? Based on clinical-study data from patients"," early detection of adverse events or correlations (gender"," age"," etc."," incl. mix of them), Bemerkung Lada:Same as the lung project"," if we could ask for patient level data and run the algorithm on all data submitted to Swissmedic --> idea from Alexander Templier on our first TC."
-Automated search of Articles and ranking,Adopt,Technologie,FALSE,Automated search of Articles and ranking --> not only papers"," but every information available
-Generating smart data out of big data,Initial,Technologie,FALSE,Pharmacovigilance"," evaluate and detect signals (Automatic approach to help experts"," Database vs Literature) --> AI should chefck the internet for information and compare with our database (Generating smart data out of big data. Proactively scan for pharmacovigilance issues"," rather than having these issues reported to our agency.) https://www.outsourcing-pharma.com/Article/2019/07/10/AI-and-pharmacovigilance-We-can-cut-out-a-lot-of-this-work-and-focus-our-energies-says-MHRA
-Secondary maliciency (drug-related) based on adverse events or information coming from bibliography and other sources,Initial,Technologie,FALSE,Secondary maliciency (drug-related) based on adverse events or information coming from bibliography and other sources --> drug and patient specificities --> precision medicine
-System for Data quality,Initial,Technologie,FALSE,System for Data quality"," is the Database correct?
-Good Randomized clinical trials (RCTs) vs Bad RCTs"," automated system to make the choice,Initial,Technologie,FALSE,Good Randomized clinical trials (RCTs) vs Bad RCTs"," automated system to make the choice? Risk-score (see example of Cochrane).
-automatisation in checking dossiers/forms,Initial,Technologie,FALSE,"automatisation in checking dossiers/forms: Comparison of a current establishment licence with an application for a licence, automated refuse if data are incomplete such as adress"," activities"," personal details etc. or if data do not match with a current establishment licence, automatic check of Handelsregister"," CV"," Medreg"
-Certificates of Pharmaceutical Products are given based on data to be found in SAP,Initial,Technologie,FALSE,Certificates of Pharmaceutical Products are given based on data to be found in SAP (Prerequisite: all data is available in SAP!)
-AI-based dentification of new developments that are or will be relevant for Swissmedic (--> Horizon Scanning),Initial,Organisation & Prozesse,FALSE,"Task: Identification of new developments that are or will be relevant for Swissmedic (--> Horizon Scanning). For example by scanning the internet., Impact: Ensuring new relevant are identified. , There are already Horizon Scanning programs available."
-Support of quality review,Initial,Technologie,FALSE,"Task: Support of quality review. Impact: Possibly expediting the approval process, https://blog.frontiersin.org/2018/12/14/artificial-intelligence-peer-review-assistant-aira/"
-Support of clinical review,Initial,Technologie,FALSE,"Task: Support of clinical review Impact: Possibly expediting the approval process,"
-Blockchain für Labelling Phase,Initial,Technologie,FALSE,"Blockchain für Labelling Phase:
-Neben der CPP-Anwendung"," die seitens Pharmaledger initiert wurde"," könnte eine der vielleicht relevantesten Anwendungen für SMC in der Verwendung einer Blockchain (BC) im Rahmen des Labelling liegen.
-Deswegen relevant"," weil SMC ja immer wegen der Fristen in der Kritik steht und die Anwendung die Evaluation der Arzneimittelinformation/Packungselemente wahrscheinlich stark verkürzen könnte.
-Ich habe mittlerweile sogar eine Website gefunden"," auf der der Use-Case genannt ist!:
-https://www.salesforce.com/blog/2019/06/real-use-cases-enterprise-blockchain.html (s.Nr. 7).
-Meine Idee ist die Ermöglichung der gemeinsamen Bearbeitung der Arzneimittelinformation (bei Neuzulassungen und Änderungen) sowohl durch Interne als auch mit den Externen auf einer BC. Die Historie wäre klar abgebildet und die Unveränderbarkeit der BC garantiert die Richtigkeit der Angaben.
-Dieser Use-Case könnte bei entsprechendem Bedarf seitens ZL evaluiert werden. Allenfalls könnte man auch Scott dazu fragen…
-Natürlich gibt es auch Nachteile bei der BC und ein Use Case muss immer gründlich evaluiert werden: sie braucht zB viel Energie wegen der hohen Speicherkapazitäten und die Umstellung auf BC bringt einen hohen Initialaufwand mit sich. Ob sich das in dem Fall lohnt"," müsste eruiert werden. Dies insbesondere auch vor dem Hintergrund"," dass ein Teil der Aufgaben im Zshg mit der Arzneimittelinformation (nämlich post-Zulassung) nun ja auf die Refdata übergegangen ist und damit ein Teilbereich der Überwachung durch SMC weggefallen."
-Gruppenweise Anpassungen von Arzneimittelinformations-Passagen,Initial,Technologie,FALSE,"Gruppenweise Anpassungen von Arzneimittelinformations-Passagen:
-Es gibt immer wieder sehr mühsame Überprüfungsverfahren von Gruppen von Arzneimitteln – z.B. Kontrazeptiva. Soweit ich das miterlebt habe"," müssen dann alle gleichgelagerten Fälle"," d.h. alle Fälle bei denen die spezifische Passage in der Arzneimittelinformation auch enthalten ist"," quasi «per Hand» gesucht werden. Es wäre zu evaluieren"," ob eine systematischer Überblick über spezifische Passagen in den Arzneimittelinformationen über ein System gesteuert werden könnte. So dass es alle Arzneimittel mit gleichen Passagen auffindet"," ein automatisches Signal bei Abänderung in einem Arzneimittel abgibt und damit die gleichlaufende Anpassung gewährleistet werden kann. Ich habe in meinem Kurs gerade gelernt"," dass es solche Systeme für Vertragsklauseln gibt – das müsste dann ja entsprechend auch für die Arzneimittelinformationen gehen. Ob das ein AI-Anwendungsfall wäre oder eine sonstige Systematik ist mir technisch nicht klar. 
-Auch das könnte evaluiert werden"," sofern ZL den Bedarf sehen würde und natürlich vorausgesetzt"," dass die Fachleute dies nicht doch mittlerweile auch schon über ihr System können…"
-Verknüpfung von Videos zur Anwendung des AM in der Arzneimittelinfo via QR Code,Initial,Technologie,FALSE,"Das ist noch eine Idee zu einem QR-Code-Use-Case: Verknüpfung von Videos zur Anwendung des AM in der Arzneimittelinfo.
-
-Meine Evaluation (bei allen europäischen Mitgliedstaaten über unser Emacolex-Netzwerk) fand im Jahre 2012 statt… 
-Es ging/geht um die Verknüpfung von Anwendungsvideos über QR-Codes in der Arzneimittelinfo– insbesondere bei komplizierten Anwendungen (Spritzen"," etc). Damals bin ich zum Schluss gekommen"," es sei regulatorisch auch zulässig und einige Länder machten das tatsächlich auch schon. Das Interesse von ZL war einfach nicht gross und dann ist es versandet… Der aktuelle Stand ist mir nicht bekannt. Ich meine"," das hat einen grossen Nutzen und allenfalls könnte man auch sogar die ganze Arzneimittelinfo über einen Qr-Code auf der Packung anknüpfen. Wäre – bei Bedarf - zu evaluieren."
-GCRSR Executive Committee (Global Coalition for Regulatory Science Research),Assess,Organisation & Prozesse,FALSE,
-ETHZ NRP 77,Assess,Organisation & Prozesse,FALSE,
-Austausch mit MHRA und DKMA,Assess,Organisation & Prozesse,FALSE,
-Zusammenarbeit mit BFS,Assess,Organisation & Prozesse,FALSE,
-Austausch mit FDA (Division of Bioinformatics and Biostatistics),Assess,Organisation & Prozesse,FALSE,
-App Social Media,Assess,Technologie,FALSE,
-RPA,Assess,Technologie,FALSE,
-Neue Führungskonzepte,Assess,Mensch & Kultur,FALSE,
-Contract Life Cycle Management,Initial,Organisation & Prozesse,FALSE,Evtl. mit OSS anschauen
-Enterprise search,Assess,Technologie,FALSE,
-Pharmaledger CPP (Prüfzertifikate) evtl. bei Betäubungsmittel,Initial,Technologie,FALSE,
-Dokumenten Data Lake,Initial,Technologie,FALSE,
-Formulare,Initial,Übergabe IT,FALSE,
+"«Smart Watches"","" Social Media"","" available Patient Data for Market Surveillance»",Initial,Technologie,FALSE,mehr Informationen folgen
+Data-Lake for safety surveillance and communication,Initial,Technologie,FALSE,mehr Informationen folgen
+RWD for confirming previousliy given marketing Authorization.,Initial,Technologie,FALSE,mehr Informationen folgen
+“PRE-Evaluation of Marketing Authorization Applications (MAA) only on AI-selected chapters”,Initial,Technologie,FALSE,mehr Informationen folgen
+“POST-Evaluation of MAA which did “fail” at previous applications”,Initial,Technologie,FALSE,mehr Informationen folgen
+Pooling Safety signals from multiple sources for reading out risks to patients and for inspection,Initial,Technologie,FALSE,mehr Informationen folgen
+Real-time study sucess algorithm,Initial,Technologie,FALSE,mehr Informationen folgen
+AI for Personalized Drug Development Approval,Initial,Technologie,FALSE,mehr Informationen folgen
+"“Knowing the Gene-Profile of patients will lead to enlarge the Marketing Authorization beyond the initial trial data.""",Initial,Organisation & Prozesse,FALSE,mehr Informationen folgen
+AI-based compliance checking of company self-approved data,Initial,Technologie,FALSE,mehr Informationen folgen
+"Reputation of Swissmedic in Social Media, Goal: improve reputation",Initial,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Signal detection on Swissmedic data,Initial,Technologie,FALSE,mehr Informationen folgen
+"Usage of published data on our websites and user behaviour, Goal: Optimise our website structure and quality of data/content",Trial,Technologie,FALSE,mehr Informationen folgen
+scheduling of new designer precursors,Initial,Technologie,FALSE,mehr Informationen folgen
+scheduling of new psychoactive substances (NPS),Initial,Technologie,FALSE,mehr Informationen folgen
+Identify risky shipments,Initial,Technologie,FALSE,mehr Informationen folgen
+API manufacturers abroad with unreported issues,Initial,Technologie,FALSE,mehr Informationen folgen
+Answer questions from the public with help of AI,Assess,Technologie,FALSE,mehr Informationen folgen
+Speed-up marketing authorisation processes,Initial,Technologie,FALSE,mehr Informationen folgen
+GCP Inspections,Initial,Technologie,FALSE,mehr Informationen folgen
+GCP/GVP Inspections (department KLV and MEP),Initial,Technologie,FALSE,mehr Informationen folgen
+Priorization of incident reports and identification of signals and trends,Initial,Technologie,FALSE,mehr Informationen folgen
+Identify trends and signals based on Europen vigilance sites,Initial,Technologie,FALSE,mehr Informationen folgen
+Identify if a medical device has to early been released to the market.,Initial,Technologie,FALSE,mehr Informationen folgen
+Analytical method for laboratory,Initial,Technologie,FALSE,mehr Informationen folgen
+"Study-data of patients"","" data analysis sub group",Initial,Technologie,FALSE,mehr Informationen folgen
+Automated search of Articles and ranking,Adopt,Technologie,FALSE,mehr Informationen folgen
+Generating smart data out of big data,Initial,Technologie,FALSE,mehr Informationen folgen
+Secondary maliciency (drug-related) based on adverse events or information coming from bibliography and other sources,Initial,Technologie,FALSE,mehr Informationen folgen
+System for Data quality,Initial,Technologie,FALSE,mehr Informationen folgen
+"Good Randomized clinical trials (RCTs) vs Bad RCTs"","" automated system to make the choice",Initial,Technologie,FALSE,mehr Informationen folgen
+automatisation in checking dossiers/forms,Initial,Technologie,FALSE,mehr Informationen folgen
+Certificates of Pharmaceutical Products are given based on data to be found in SAP,Initial,Technologie,FALSE,mehr Informationen folgen
+AI-based dentification of new developments that are or will be relevant for Swissmedic (--> Horizon Scanning),Initial,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Support of quality review,Initial,Technologie,FALSE,mehr Informationen folgen
+Support of clinical review,Initial,Technologie,FALSE,mehr Informationen folgen
+Blockchain für Labelling Phase,Initial,Technologie,FALSE,mehr Informationen folgen
+Gruppenweise Anpassungen von Arzneimittelinformations-Passagen,Initial,Technologie,FALSE,mehr Informationen folgen
+Verknüpfung von Videos zur Anwendung des AM in der Arzneimittelinfo via QR Code,Initial,Technologie,FALSE,mehr Informationen folgen
+GCRSR Executive Committee (Global Coalition for Regulatory Science Research),Assess,Organisation & Prozesse,FALSE,mehr Informationen folgen
+ETHZ NRP 77,Assess,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Austausch mit MHRA und DKMA,Assess,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Zusammenarbeit mit BFS,Assess,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Austausch mit FDA (Division of Bioinformatics and Biostatistics),Assess,Organisation & Prozesse,FALSE,mehr Informationen folgen
+App Social Media,Assess,Technologie,FALSE,mehr Informationen folgen
+RPA,Assess,Technologie,FALSE,mehr Informationen folgen
+Neue Führungskonzepte,Assess,Mensch & Kultur,FALSE,mehr Informationen folgen
+Contract Life Cycle Management,Initial,Organisation & Prozesse,FALSE,mehr Informationen folgen
+Enterprise search,Assess,Technologie,FALSE,mehr Informationen folgen
+Pharmaledger CPP (Prüfzertifikate) evtl. bei Betäubungsmittel,Initial,Technologie,FALSE,mehr Informationen folgen
+Dokumenten Data Lake,Initial,Technologie,FALSE,mehr Informationen folgen
+Formulare,Initial,Übergabe IT,FALSE,mehr Informationen folgen
